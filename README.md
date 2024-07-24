@@ -20,7 +20,4 @@ please refer to the `README.md` file within this folder.
 Due to the limited amount of code the author provided, I was not able to run experiments 
 regarding the calculations of the causal bounds. Due to this paper being older, the author 
 could only recover the code for the kl-UCB algorithm, which is the algorithm in the file 
-`Continuous Paper/Source Code/b_kl_ucb.m`. The code for this algorithm was written in `Matlab`.# Approximating-unidentifiable-Causal-Effects
-# Approximating-unidentifiable-Causal-Effects
-# Approximating-unidentifiable-Causal-Effects
-# Approximating-unidentifiable-Causal-Effects
+`Continuous Paper/Source Code/b_kl_ucb.m`. The code for this algorithm was written in `Matlab`.
