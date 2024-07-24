@@ -1,0 +1,12 @@
+tqdm
+setuptools
+pandas
+networkx
+matplotlib
+wheel
+numpy
+pandas
+plotnine
+pyscipopt==4.4
+sympy
+scipy

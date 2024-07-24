@@ -1,0 +1,6 @@
+problem,time
+"X binary, Y binary, Z binary",0.556117041998732
+"X binary, Y binary, Z ternary",0.544265209000514
+"X binary, Y binary, Z ternary",0.5463242090008862
+"X ternary, Y binary, Z binary",0.5710762079997949
+"X binary, Y ternary, Z binary",0.559560457999396
